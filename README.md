@@ -4,7 +4,7 @@
 ## Conductor
 Conductor is an _orchestration_ engine that runs in the cloud.
 
-
+Netflix Conductor框架是典型的服务编排框架，通过Conductor还可以实现工作流和分布式调度，性能非常卓越。
 
 [![Download](https://api.bintray.com/packages/netflixoss/maven/conductor/images/download.svg)](https://bintray.com/netflixoss/maven/conductor/_latestVersion)
 [![License](https://img.shields.io/github/license/Netflix/conductor.svg)](http://www.apache.org/licenses/LICENSE-2.0)
